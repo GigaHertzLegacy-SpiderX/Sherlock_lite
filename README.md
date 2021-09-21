@@ -9,7 +9,8 @@ To Install this in Windows -->
 1. Download the ZIP File under Code Section
 2. Unzip it
 3. open cmd in that file path
-4. python3 main.py
+4. Install Python3 if you don't have(https://www.python.org/downloads/)
+5. python3 main.py
 
 To Install this in Termux -->
 1. pkg install git
